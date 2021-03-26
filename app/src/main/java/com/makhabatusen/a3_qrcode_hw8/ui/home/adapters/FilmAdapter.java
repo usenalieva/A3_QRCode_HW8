@@ -1,4 +1,4 @@
-package com.makhabatusen.a3_qrcode_hw8.ui.home;
+package com.makhabatusen.a3_qrcode_hw8.ui.home.adapters;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.makhabatusen.a3_qrcode_hw8.R;
 import com.makhabatusen.a3_qrcode_hw8.data.model.Film;
 import com.makhabatusen.a3_qrcode_hw8.databinding.ItemFilmBinding;
+import com.makhabatusen.a3_qrcode_hw8.ui.home.FilmTitles;
 
 import java.util.ArrayList;
 import java.util.List;

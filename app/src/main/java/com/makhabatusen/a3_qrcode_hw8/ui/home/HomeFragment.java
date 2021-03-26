@@ -18,6 +18,8 @@ import com.makhabatusen.a3_qrcode_hw8.databinding.FragmentHomeBinding;
 import com.makhabatusen.a3_qrcode_hw8.ui.base.BaseFragment;
 import com.makhabatusen.a3_qrcode_hw8.ui.details.DetailsFragment;
 import com.makhabatusen.a3_qrcode_hw8.ui.dialog.DialogQRCode;
+import com.makhabatusen.a3_qrcode_hw8.ui.home.adapters.FilmAdapter;
+import com.makhabatusen.a3_qrcode_hw8.ui.home.adapters.OnFilmListener;
 
 import java.util.List;
 
